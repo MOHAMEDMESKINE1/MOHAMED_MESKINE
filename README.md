@@ -1,5 +1,5 @@
 # MOHAMED MESKINE
-## Hi there, I'm Mohamed from Morocco :morocco: :wave:
+## Hi there, I'm Mohamed  :morocco: :wave:
 I'm a web developer , i develop and implement web apps and desktop apps.
 I graduated from Vocational Training and Employment Promotion Institute. Technician diploma specialized in computer development at
 the Specialized Institute of Applied Technology Tassila Agadir .
