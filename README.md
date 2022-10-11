@@ -5,18 +5,18 @@ I graduated from Vocational Training and Employment Promotion Institute. Technic
 the Specialized Institute of Applied Technology Tassila Agadir .
 
 I am specialised on creating  web & desktop apps primarily using :
-*HTML
-*CSS
-*Sass
-*JavaScript
-*PHP
-*MySQL
-*C#
-*Sqlserver
+-HTML
+-CSS
+-Sass
+-JavaScript
+-PHP
+-MySQL
+-C#
+-Sqlserver
 I have also studied a variety of other web frameworks and languages on my own time.
 
 ## Languages & Frameworks
-[![+](https://skills.thijs.gg/icons?i=js,html,css,sass,php,laravel,vuejs,tailwindcss)](https://skills.thijs.gg)
+[![+](https://skills.thijs.gg/icons?i=js,html,css,sass,php,laravel,vuejs,tailwindcss,csharp,sqlserver)](https://skills.thijs.gg)
 
 ## Software & Tools
 [![+](https://skills.thijs.gg/icons?i=vscode,git,github)](https://skills.thijs.gg)
