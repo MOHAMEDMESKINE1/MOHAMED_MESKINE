@@ -16,7 +16,7 @@ I am specialised on creating  web & desktop apps primarily using :
 I have also studied a variety of other web frameworks and languages on my own time.
 
 ## Languages & Frameworks
-[![+](https://skills.thijs.gg/icons?i=js,html,css,sass,php,laravel,vuejs,tailwindcss,c#)](https://skills.thijs.gg)
+[![+](https://skills.thijs.gg/icons?i=js,html,css,sass,php,laravel,vuejs,tailwind,jquery,csharp)](https://skills.thijs.gg)
 
 ## Software & Tools
 [![+](https://skills.thijs.gg/icons?i=vscode,git,github)](https://skills.thijs.gg)
